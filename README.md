@@ -1,1 +1,1 @@
-<span color="blue">some *This is Blue italic.* text</span>
+<span style="color:blue">some *This is Blue italic.* text</span>
